@@ -1,0 +1,6 @@
+[submodule "lib/starlisp"]
+	path = lib/starlisp
+	url = https://github.com/briangu/starlisp.git
+[submodule "lib/viper.io"]
+	path = lib/viper.io
+	url = https://github.com/briangu/viper.io.git
